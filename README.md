@@ -1,2 +1,11 @@
-# MasterMind
 MasterMind
+==========
+
+MasterMind
+
+
+License
+-------
+
+MIT License
+
